@@ -1,9 +1,9 @@
 flask==2.3.2
-torch==2.8.0  # Updated to latest stable version
-torchvision==0.16.0  # Updated to match torch version
-timm==0.9.16  # Updated version
-pillow==10.3.0  # Updated version
-numpy==1.26.4  # Updated version
+torch==2.2.1
+torchvision==0.17.1
+timm==0.9.16
+pillow==10.3.0
+numpy==1.26.4
 python-dotenv==1.0.0
-gunicorn==21.2.0  # Updated version
-flask-cors==4.0.0  # Added for CORS support
+gunicorn==21.2.0
+flask-cors==4.0.0
